@@ -19,6 +19,6 @@ System.out.println("Please enter a temperature you would like to convert in degr
     // declare and initialize a variable for fahrenheit
     int fahrenheit = (temp*9)/5+32;
     // State the temperature in fahrenheit
-    System.out.println(fahrenheit);
+    System.out.println(temp + "C is the same as " + fahrenheit + "F");
   }
 }
